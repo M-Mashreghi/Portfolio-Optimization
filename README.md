@@ -19,8 +19,18 @@ From these returns the notebook estimates:
 
 Two heatmaps help visualize the dependence structure:
 
-- `correlation_heatmap.png` – correlations (scale-free co-movement, between −1 and 1)  
+- `correlation_heatmap.png` – correlations (scale-free co-movement, between −1 and 1)
+
+
+<img width="3000" height="2400" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/6114bdbc-1be1-4cf4-8c9d-e1ff16d9eebe" />
+
+
 - `covariance_heatmap.png` – covariances (co-movement in return units, influenced by volatility)
+
+
+
+<img width="3000" height="2400" alt="covariance_heatmap" src="https://github.com/user-attachments/assets/b74bfcbc-03e2-4d4a-b320-014170d6fe9f" />
+
 
 Correlation is easier to interpret and is central to clustering in Hierarchical Risk Parity.  
 Covariance keeps the actual scale of risk and is what enters variance-based optimizations such as Markowitz and Max-Sharpe portfolios.
