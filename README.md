@@ -1,5 +1,4 @@
 # Portfolio-Optimization
-# Portfolio Optimization Lab
 
 This project is a small lab for experimenting with classic portfolio-construction techniques in Python.  
 It walks through getting price data, estimating return and risk, and building several equity portfolios used in quantitative finance.
